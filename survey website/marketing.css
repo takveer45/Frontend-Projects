@@ -1,0 +1,39 @@
+.marketing{
+	margin-top:200px;
+}
+.mtext1{
+font-size:40px;
+margin-left:5px;
+}
+.mtext2{
+font-size: 35px;
+margin-left:5px;
+}
+.mtext3{
+	font-size:30px;
+	margin-left:5px;
+}
+
+.buttons1 a{
+  border:2px solid black;
+  color:black;
+  border-radius:50px;
+  margin-left:10px;
+  padding:10px;
+  margin-bottom:5px;
+  text-decoration:none;
+}
+.buttons1 a:hover{
+	border:2px solid black;
+color:white;
+background-color:black;
+ text-decoration:none;
+}
+.img{
+width:400px;
+height: 300px;
+}
+.survey{
+	margin-top:25px;
+	padding:10px
+}

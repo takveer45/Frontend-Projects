@@ -1,0 +1,151 @@
+.header-section{
+  width: 100%;
+  color:white;
+  text-align:center;
+  margin:0 5px;
+}
+.header-buttons a{
+  border:2px solid black;
+  border-radius:50px;
+  margin:0 10px;
+  padding:10px 30px;
+  color:black;
+  background-color:white;
+  text-align:center;
+}
+.header-buttons a:hover{
+  boder:black;
+  color:white;
+  background:white;
+  text-decoration:none;
+  background-color: black;
+  box-shadow:0 0 20px 0 rgba(0,0,0,0.3);
+}
+.carousel-caption{
+  bottom: 150px !important;
+}
+.carousel{
+  clip-path:polygon(100% 0%, 100% 77%, 50% 100%, 0% 75%,0 0);
+}
+.footer{
+  background-color:black;
+  height:250px;
+  width:auto;
+  margin-top:20px;
+}
+.nav-link{
+  margin-left:100px;
+}
+ .navbar-nav li{
+  color:white !important;
+  font-size: 20px;
+  }
+  nav .navbar-nav li a{
+  color: white !important;
+  }
+  nav .navbar-nav li a:hover{
+  color: red !important;
+  }
+  .text{
+  color:black;
+  height:100px;
+  width:auto;
+  text-align:center;
+  font-size:30px;
+  font-family:serif;
+}
+.text1{
+  color:white;
+   height:100px;
+  width:auto;
+  text-align:center;
+  font-size:30px;
+  font-family:serif;
+  margin-top:50px;
+}
+.navbar.navbar-5 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger5.svg?color=f3e5f5');
+}
+
+
+.fa {
+  border-radius:20px;
+  padding: 30px;
+  font-size: 40px;
+  width: 40px;
+  height:80px;
+  text-align: center;
+  text-decoration: none;
+  margin-left:130px;
+  margin-top:10px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-facebook:hover{
+  background:white;
+  color:black;
+  text-decoration:none;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-twitter:hover{
+  background:red;
+  color:black;
+  text-decoration:none;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-google:hover{
+  background:yellow;
+  color:black;
+  text-decoration:none;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-linkedin:hover{
+  background:skyblue;
+  color:black;
+  text-decoration:none;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-youtube:hover{
+  background:green;
+  color:black;
+  text-decoration:none;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-instagram:hover{
+  background:purple;
+  color:black;
+  text-decoration:none;
+}
